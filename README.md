@@ -1,4 +1,9 @@
-[![MasterHead](http://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- GitHub Banner -->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://camo.githubusercontent.com/c819713731c10cfaa58b7366231072e755ae610b6f241b6bc5a9bbc03db70593/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966" width="100%">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Mohammedali Khan</h1>
 <h3 align="center">Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
