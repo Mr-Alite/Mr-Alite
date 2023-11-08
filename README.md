@@ -23,7 +23,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-alite&label=Profile%20views&color=0e75b6&style=flat" alt="mr-alite" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-alite" alt="mr-alite" /></a> </p
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trop"><img src="https://github-profile-trophy.vercel.app/?username=mr-alite" alt="mr-alite" /></a> </p>
 
 <h3 align="left"> <b> Connect with me: </b> </h3>
 <p align="left">
