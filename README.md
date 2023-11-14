@@ -31,6 +31,10 @@
 <a href="mailto:mohammed9990ali@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Your Email"/>
 </a>
+ <a href="https://twitter.com/__Mohammedali_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Your Twitter"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
